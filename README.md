@@ -1,7 +1,7 @@
 # Cookfad
 ### I want to cook the food for the one in the future~:curry::ramen::stew::doughnut::custard::fried_shrimp:
 This is a list that I want to cook for the one.
-I'm waiting and discover the one.
+I'm waiting and discovering the one.
 
 Why I do the list in Github, because I come to Github everyday!
 
@@ -43,6 +43,20 @@ Why I do the list in Github, because I come to Github everyday!
 + slice sparerib
 + prepare the kelp
 + wash food
++ put food and water in presser cooker
++ start the presser cooker, wait for about 40 minutes
++ presser cooker finish working, open it and put some salt in it
+
+### 4. Sparerib white radish soup :stew::stew::stew:
+
+:bento:Food Material: sparerib, white radish，dried squids
+
+:sake:Flavouring: salt
+
+:hotsprings:Procedure:
++ slice sparerib
++ prepare the white radish
++ wash the dried squids then slice them
 + put food and water in presser cooker
 + start the presser cooker, wait for about 40 minutes
 + presser cooker finish working, open it and put some salt in it
