@@ -60,3 +60,17 @@ Why I do the list in Github, because I come to Github everyday!
 + put food and water in presser cooker
 + start the presser cooker, wait for about 40 minutes
 + presser cooker finish working, open it and put some salt in it
+
+### 5. Grilled Salmon :fire::three::fish:  
+
+:bento:Food Material: Salmon, lemon
+
+:sake:Flavouring: salt, cooking oil
+
+:hotsprings:Procedure:
++ slice lemon, one to four parts
++ prepare the salmon, clean fish viscera
++ paint salt on salmon
++ paint cooking oil on salmon with brush
++ put salmon in oven, so let's buy a oven!
++ start the oven, set temperature to 200°, wait for about 15 minutes
