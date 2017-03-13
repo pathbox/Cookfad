@@ -75,7 +75,7 @@ Why I do the list in Github, because I come to Github everyday!
 + put salmon in oven, so let's buy a oven!
 + start the oven, set temperature to 200°, wait for about 15 minutes
 
-### 6. Bitter gourd and eggs :fire::egg:  
+### 6. Scrambled eggs with bitter gourd :fire::egg:  
 
 :bento:Food Material: bitter gourd, three eggs
 
@@ -87,5 +87,20 @@ Why I do the list in Github, because I come to Github everyday!
 + first fire the bitter gourd
 + second put the eggs that is beaten in the wok
 + put some water
++ put a bit of salt in the wok
++ finish
+
+### 7. Scrambled eggs with tomatoes :fire::egg:  
+
+:bento:Food Material: tomatoes, three eggs
+
+:sake:Flavouring: salt, cooking oil, spring onio
+
+:hotsprings:Procedure:
++ slice tomatoes
++ open the eggs and mix up them， put some salt and spring onio in them
++ first scrambled the eggs
++ second scrambled the tomatoes
++ thirth scrambled the eggs and tomatoes
 + put a bit of salt in the wok
 + finish
