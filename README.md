@@ -104,3 +104,17 @@ Why I do the list in Github, because I come to Github everyday!
 + thirth scrambled the eggs and tomatoes
 + put a bit of salt in the wok
 + finish
+
+### 8. Scrambled kidney-bean with shredded pork :fire::fire::fire:  
+
+:bento:Food Material: kidney-bean, pork
+
+:sake:Flavouring: salt, cooking oil, garlic, shoyu
+
+:hotsprings:Procedure:
++ cut kidney-bean and pork to filiform
++ first scrambled the shredded pork then put them in the saucer
++ second scrambled the kidney-bean and garlic
++ put in a bit of shoyu
++ put a bit of salt in the wok
++ finish
