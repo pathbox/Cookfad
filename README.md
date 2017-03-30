@@ -10,12 +10,12 @@ Why I do the list in Github, because I come to Github everyday!
 
 :bento:Food Material: tomato, beef roll, ginger, shallot
 
-:sake:Flavouring: cooking oil, salt, pepper
+:sake:Flavouring: cooking oil, salt, pepper, cilantro
 
 :hotsprings:Procedure:
 + Stir-fry onion and ginger with cooking oil	 
-+ fired the tomato, add some water
-+ put in beef roll
++ fired the tomatoes, add a little water, until tomatoes are fusing status
++ put in beef roll and cilantro
 + put in salt and pepper
 
 
