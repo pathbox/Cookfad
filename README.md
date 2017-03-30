@@ -109,12 +109,27 @@ Why I do the list in Github, because I come to Github everyday!
 
 :bento:Food Material: kidney-bean, pork
 
-:sake:Flavouring: salt, cooking oil, garlic, shoyu
+:sake:Flavouring: salt, cooking oil, garlic, Soya sauce
 
 :hotsprings:Procedure:
 + cut kidney-bean and pork to filiform
 + first scrambled the shredded pork then put them in the saucer
 + second scrambled the kidney-bean and garlic
-+ put in a bit of shoyu
++ put in a bit of Soya sauce
++ put a bit of salt in the wok
++ finish
+
+### 9. Scrambled bitter gourd with pork :fire::fire::fire:  
+
+:bento:Food Material: bitter gourd, pork
+
+:sake:Flavouring: salt, cooking oil, Soya sauce
+
+:hotsprings:Procedure:
++ cube the bitter gourds and pork
++ first boil the bitter gourds with water
++ second scrambled the pork
++ then scrambled the bitter gourds with pork
++ put in a bit of Soya sauce, Soya sauce is nice for the taste
 + put a bit of salt in the wok
 + finish
