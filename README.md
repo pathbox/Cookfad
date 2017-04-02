@@ -17,7 +17,7 @@ Why I do the list in Github, because I come to Github everyday!
 + fired the tomatoes, add a little water, until tomatoes are fusing status
 + put in beef roll and cilantro
 + put in salt and pepper
-
++ ps: not too much beef roll, don't cook cliantro too cooked, use white pepper
 
 
 ### 2. Sparerib lotus rhizome soup :stew::stew::stew:
