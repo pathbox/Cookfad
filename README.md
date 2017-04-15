@@ -129,7 +129,22 @@ Why I do the list in Github, because I come to Github everyday!
 + cube the bitter gourds and pork
 + first boil the bitter gourds with water
 + second scrambled the pork
-+ then scrambled the bitter gourds with pork
++ then scramble the bitter gourds with pork
 + put in a bit of Soya sauce, Soya sauce is nice for the taste
++ put a bit of salt in the wok
++ finish
+
+### 10. Scrambled mussel with onions
+:bento:Food Material: mussel, onions, garlic
+
+:sake:Flavouring: salt, cooking oil, fresh butter
+
+:hotsprings:Procedure:
++ clean the mussel， it's important
++ cut the garlic up
++ scramble onions with fresh butter
++ put mussels in the wok
++ put garlic in the wok
++ scramble them
 + put a bit of salt in the wok
 + finish
