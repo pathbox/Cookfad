@@ -148,3 +148,17 @@ Why I do the list in Github, because I come to Github everyday!
 + scramble them
 + put a bit of salt in the wok
 + finish
+
+### 11. Scrambled Shell sub(蚬子肉) with eggs
+:bento:Food Material: Shell sub, two eggs, garlic, green pepper
+
+:sake:Flavouring: salt, cooking oil, oyster
+
+:hotsprings:Procedure:
++ stir shell sub and eggs
++ scramble garlic with green pepper
++ put shell sub and eggs in the wok
++ put a little oyster in the wok
++ keep scrambling them
++ put a bit of salt in the wok
++ finish
